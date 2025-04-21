@@ -1,3 +1,6 @@
 #!/bin/bash
+# Create a directory named "my_dir" in the current working directory
 mkdir my_dir
+
+# Set the permissions of the directory to 751
 chmod 751 my_dir

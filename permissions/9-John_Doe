@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Set the mode (permissions) of the file 'hello'
+chmod 755 hello
+
+echo "Permissions of 'hello' have been set to 755."

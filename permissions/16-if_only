@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --reference= guillamue vincent hello
+chown --reference=guillamue vincent hello
